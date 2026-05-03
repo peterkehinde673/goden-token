@@ -19,3 +19,7 @@ To empower users and drive innovation across the decentralized ecosystem.
 
 ## Status
 Testnet Phase 🚧
+
+
+## 🌐 Part of Kehinde Ecosystem
+This project is part of the Kehinde Ecosystem.
